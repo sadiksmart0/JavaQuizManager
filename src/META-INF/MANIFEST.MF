@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: main.fr.epita.quizProject.launcher.Launcher
+Class-Path: svg-7.2.3.jar pdfa-7.2.3.jar slf4j-api-1.7.36.jar styled-xml
+ -parser-7.2.3.jar layout-7.2.3.jar pdfa-7.2.3.jar postgresql-42.4.0.jar
+  sign-7.2.3.jar layout-7.2.3.jar hyph-7.2.3.jar svg-7.2.3.jar io-7.2.3.
+ jar styled-xml-parser-7.2.3.jar bcprov-jdk15on-1.70.jar barcodes-7.2.3.
+ jar commons-7.2.3.jar kernel-7.2.3.jar font-asian-7.2.3.jar forms-7.2.3
+ .jar forms-7.2.3.jar io-7.2.3.jar pdftest-7.2.3.jar barcodes-7.2.3.jar 
+ bcutil-jdk15on-1.70.jar mybatis-3.4.5.jar bcpkix-jdk15on-1.70.jar commo
+ ns-7.2.3.jar kernel-7.2.3.jar slf4j-jdk14-1.7.36.jar
+
